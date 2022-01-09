@@ -19,15 +19,36 @@ Obelisk - https://github.com/obsidiansystems/obelisk
 <br>
 Reflex - https://github.com/reflex-frp/reflex
 <br>
+<br>
+<br>
 
 # Building The Project
 Using Obelisk to build the project is quiet simple and interactive (you can change the script while running Obelisk server)
 <br>
+<br>
+Clone the repository to your machine (Linux)
+```
+git clone https://github.com/ProgressiveSweiry/Obelisk-Calculator.git
+```
+Inside the calculator folder run Obelisk
+```
+cd calculator
+ob run
+```
 
+# Calculator Project and modifications
 
+This calculator project is taken from https://github.com/obsidiansystems/calculator-tutorial
 
+<br>
 
+### Modifications :
+- Project is complete and ready to run with Obelisk configurations
+- Updated with some libraries
+- Some notes for functions declarations data types etc...
+- Tutorial3 now use hash function SHA3_512 to hash given text 
 
+> Haskell File Frontend.hs can be found  calculator/frontend/src/Frontend.hs
 
 
 
