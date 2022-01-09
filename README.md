@@ -32,9 +32,11 @@ git clone https://github.com/ProgressiveSweiry/Obelisk-Calculator.git
 ```
 Inside the calculator folder run Obelisk
 ```
+cd Obelisk-Calculator
 cd calculator
 ob run
 ```
+Once Project's up and running you can refer to http://localhost:8000/ (Default Port) 
 
 # Calculator Project and modifications
 
